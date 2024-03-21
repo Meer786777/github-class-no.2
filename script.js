@@ -1,0 +1,7 @@
+let a = "bro"
+let b = "bro"
+let c = "bro"
+let d = "bro"
+let e = "bro"
+let f = "bro"
+let g = "bro"
